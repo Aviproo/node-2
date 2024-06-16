@@ -1,1 +1,16 @@
-[{"id":"12345","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"Nother Product","imageUrl":"https://www.freepik.com/free-vector/decorative-mandala-design-with-pastel-colours_1155688.html","description":"new","price":"20","id":"0.028286019468495516"},{"title":"","imageUrl":"","description":"","price":"","id":"0.6329023734522505"},{"title":"","imageUrl":"","description":"","price":"","id":"0.405214979547768"},{"title":"","imageUrl":"","description":"","price":"","id":"0.3522107039243594"},{"title":"","id":"0.2817573467220027","imageUrl":"","description":"","price":""},{"title":"","id":"0.4808708999886919","imageUrl":"","description":"","price":""},{"title":"A Book","id":"0.9562313729686114","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"120"},{"title":"A Book","id":"0.1653680245410878","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19091230192"},{"title":"A Book","id":"0.10928867053953928","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"A Book","id":"0.9469275826617791","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"Nother Product1","id":"0.40670377973552463","imageUrl":"https://www.freepik.com/free-vector/decorative-mandala-design-with-pastel-colours_1155688.html","description":"new","price":"20"}]
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "fasfd",
+    "imageUrl": "fdasfs",
+    "description": "fadsfads",
+    "price": "12"
+  }
+]
